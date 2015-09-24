@@ -40,6 +40,10 @@ myApp.controller('AppCtrl',['$scope','$http',
 				refresh();
 			});
 		};
+
+		$scope.clear = function(){
+			$scope.contact="";
+		}
 }]);
 
 myApp.controller('TestController',function(){
