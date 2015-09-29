@@ -1,2 +1,2 @@
 # mean-practice-app
-A contact list app. using MEAN stack
+A contact list application using MEAN stack(MongoDB,Express.js,Angular.js,Node.js)
